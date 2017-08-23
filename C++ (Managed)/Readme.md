@@ -11,7 +11,7 @@
 </ul>
     <p><a href="https://bytescout.com/products/developer/barcodereadersdk/bytescoutbarcodereadersdk.html">Barcode Reader SDK for C++</a> works well with C++ and it is a very useful tool reading barcodes from TIFF, PNG and JPG images. The tool operates in C++ as well as in other languages. The tool reads linear (Code128, Code39, EAN13, EAN8, GS! Databar, GS1 128 etc) and 2D barcodes (QR code, Aztec, PDF417, Datamatrix, MaxiCode and more) perfectly.</p>
     <p>Check <a href="https://github.com/bytescout/bytescout-showcases">ByteScout Showcases</a> to find out how the program works for different cases.</p>
-<p>This repository contains <a href="https://github.com/bytescout/barcode-reader-sdk-samples-cpp">Barcode Reader SDK Samples for C++</a> to help read different barcode types using this tool.</p>
+<p>This repository contains <a href="https://github.com/bytescout/barcode-reader-sdk-samples-cpp-managed">Barcode Reader SDK Samples for C++</a> to help read different barcode types using this tool.</p>
 <p align="center">
   <a title="Download Barcode Reader SDK free trial" href="https://bytescout.com/download/web-installer">
   <strong>FREE TRIAL</strong></a>
@@ -26,23 +26,11 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/bytescout/barcode-sdk-samples-cpp">Barcode SDK</a></td>
-<td>Samples that help you generate 1D and 2D barcodes</td>
+<td><a href="https://github.com/bytescout/spreadsheet-sdk-samples-cpp-managed">Spreadsheet SDK</a></td>
+<td>Learn how to work with ByteScout Spreadsheet SDK with these samples</td>
 </tr>
 <tr>
-<td><a href="https://github.com/bytescout/image-to-video-sdk-samples-cpp">Image to Video SDK</a></td>
-<td>Program Samples that contribute to smooth work with Image to Video SDK</td>
-</tr>
-<tr>
-<td><a href="https://github.com/bytescout/pdf-extractor-sdk-samples-cpp">PDF Extractor SDK</a></td>
-<td>These samples will demonstrate how to work with ByteScout PDF Extractor SDK</td>
-</tr>
-<tr>
-<td><a href="https://github.com/bytescout/swf-to-video-sdk-samples-cpp">SWF to Video SDK</a></td>
-<td>This repository contains samples about SWF to Video SDK</td>
-</tr>
-<tr>
-<td><a href="https://github.com/bytescout/screen-capturing-sdk-samples-cpp">Screen Capturing SDK</a></td>
+<td><a href="https://github.com/bytescout/screen-capturing-sdk-samples-cpp-managed">Screen Capturing SDK</a></td>
 <td>These samples allow you working smoothly with Screen Capturing SDK</td>
 </tr></tbody></table>
 </article>
