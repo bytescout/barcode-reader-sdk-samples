@@ -1,13 +1,13 @@
-'****************************************************************************'
-'                                                                            '
-' Download evaluation version: https://bytescout.com/download/web-installer  '
-'                                                                            '
-' Signup Cloud API free trial: https://secure.bytescout.com/users/sign_up    '
-'                                                                            '
-' Copyright © 2017 ByteScout Inc. All rights reserved.                       '
-' http://www.bytescout.com                                                   '
-'                                                                            '
-'****************************************************************************'
+'*****************************************************************************************'
+'                                                                                         '
+' Download offline evaluation version (DLL): https://bytescout.com/download/web-installer '
+'                                                                                         '
+' Signup Web API free trial: https://secure.bytescout.com/users/sign_up                   '
+'                                                                                         '
+' Copyright © 2017-2018 ByteScout Inc. All rights reserved.                               '
+' http://www.bytescout.com                                                                '
+'                                                                                         '
+'*****************************************************************************************'
 
 
 if WScript.Arguments.Count < 2 Then
@@ -42,8 +42,8 @@ Sub ProcessFolder(folder)
     
     For Each objFile in colFiles
 
-    ' Check the file type
-    If inStr(inputImagesExtensions, UCase(objFSO.GetExtensionName(objFile.Name))) > 0 Then
+        ' Check the file type
+        If inStr(inputImagesExtensions, UCase(objFSO.GetExtensionName(objFile.Name))) > 0 Then
 
         ' Read barcode from file
         WScript.Echo "Reading from: " & objFile.Path
