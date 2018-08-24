@@ -1,0 +1,196 @@
+## Index of source code examples
+
+
+\ASP Classic
+\ASP.NET
+\C#
+\C++ (Managed)
+\C++ (Unmanaged)
+\Delphi
+\M-Files
+\Microsoft Access
+\PHP
+\SAP PowerBuilder
+\VB.NET
+\VB6
+\VBScript
+\_Web API
+\ASP Classic\Barcode From PDF
+\ASP Classic\General Example
+\ASP.NET\Barcodes From Image (C#)
+\ASP.NET\Barcodes From Image (VB.NET)
+\ASP.NET\Barcodes From PDF (C#)
+\ASP.NET\Barcodes From PDF (VB.NET)
+\ASP.NET\General Example (C#)
+\ASP.NET\General Example (VB.NET)
+\ASP.NET\Read From Live Camera (C# - MVC)
+\ASP.NET\Read From Live Camera (C#)
+\ASP.NET\Split PDF by Barcode (C#)
+\C#\Acquire From Scanner And Decode
+\C#\Barcodes From PDF
+\C#\Barcodes From TIFF
+\C#\Batch Read From Files
+\C#\Decode Australian Post Code
+\C#\Decode Aztec
+\C#\Decode Bookland
+\C#\Decode Codabar
+\C#\Decode Codablock F
+\C#\Decode Code 128
+\C#\Decode Code 16K
+\C#\Decode Code 39
+\C#\Decode Code 93
+\C#\Decode Datamatrix
+\C#\Decode Deutsche Post Identcode
+\C#\Decode Deutsche Post Leitcode
+\C#\Decode EAN-128
+\C#\Decode EAN-13
+\C#\Decode EAN-14
+\C#\Decode EAN-2
+\C#\Decode EAN-5
+\C#\Decode EAN-8
+\C#\Decode GS1 DataBar Expanded
+\C#\Decode GS1 DataBar Expanded Stacked
+\C#\Decode GS1 DataBar Limited
+\C#\Decode GS1 DataBar Omnidirectional
+\C#\Decode GS1 DataBar Stacked
+\C#\Decode GS1 DataMatrix
+\C#\Decode GS1-128
+\C#\Decode Intelligent Mail
+\C#\Decode Interleaved 2 of 5
+\C#\Decode ISBN
+\C#\Decode ITF-14
+\C#\Decode JAN-13
+\C#\Decode Macro PDF417
+\C#\Decode MaxiCode
+\C#\Decode MICR from Bank Check
+\C#\Decode Numly
+\C#\Decode Patch Code
+\C#\Decode PDF417
+\C#\Decode PZN
+\C#\Decode QR Code
+\C#\Decode Royal Mail
+\C#\Decode Royal Mail KIX
+\C#\Decode Swiss Post Parcel
+\C#\Decode Truncated PDF417
+\C#\Decode UPC-A
+\C#\Decode UPC-E
+\C#\Decode USPS Sack Label
+\C#\Decode USPS Tray Label
+\C#\Export Results to XML, CSV, TXT
+\C#\General Example
+\C#\GUI Example
+\C#\Image Preprocessing Filters
+\C#\Interrupt Processing
+\C#\Parallel Decoding
+\C#\Profiles
+\C#\Read Checkboxes
+\C#\Read From Live Video Cam
+\C#\Read From Live Video Cam (WPF)
+\C#\Read vCard from QR Code
+\C#\Split Document By Found Barcode
+\C#\WPF UI Example
+\C++ (Managed)\General Example
+\C++ (Unmanaged)\General Example
+\C++ (Unmanaged)\Read From Memory
+\Delphi\Console
+\Delphi\Console Read From Subfolder
+\Microsoft Access\Read barcode from PDF file
+\PHP\Read barcode from image
+\SAP PowerBuilder\Read barcode from image
+\VB.NET\Acquire From Scanner And Decode
+\VB.NET\Barcodes From PDF
+\VB.NET\Barcodes From TIFF
+\VB.NET\Batch Read From Files
+\VB.NET\Decode Australian Post Code
+\VB.NET\Decode Aztec
+\VB.NET\Decode Bookland
+\VB.NET\Decode Checkboxes
+\VB.NET\Decode Codabar
+\VB.NET\Decode Codablock F
+\VB.NET\Decode Code 128
+\VB.NET\Decode Code 16K
+\VB.NET\Decode Code 39
+\VB.NET\Decode Code 93
+\VB.NET\Decode Datamatrix
+\VB.NET\Decode Deutsche Post Identcode
+\VB.NET\Decode Deutsche Post Leitcode
+\VB.NET\Decode EAN-128
+\VB.NET\Decode EAN-13
+\VB.NET\Decode EAN-14
+\VB.NET\Decode EAN-2
+\VB.NET\Decode EAN-5
+\VB.NET\Decode EAN-8
+\VB.NET\Decode GS1 DataBar Expanded
+\VB.NET\Decode GS1 DataBar Expanded Stacked
+\VB.NET\Decode GS1 DataBar Limited
+\VB.NET\Decode GS1 DataBar Omnidirectional
+\VB.NET\Decode GS1 DataBar Stacked
+\VB.NET\Decode GS1 DataMatrix
+\VB.NET\Decode GS1-128
+\VB.NET\Decode Intelligent Mail
+\VB.NET\Decode Interleaved 2 of 5
+\VB.NET\Decode ISBN
+\VB.NET\Decode ITF-14
+\VB.NET\Decode JAN-13
+\VB.NET\Decode Macro PDF417
+\VB.NET\Decode MaxiCode
+\VB.NET\Decode MICR from Bank Check
+\VB.NET\Decode Numly
+\VB.NET\Decode Patch Code
+\VB.NET\Decode PDF417
+\VB.NET\Decode PZN
+\VB.NET\Decode QR Code
+\VB.NET\Decode Royal Mail
+\VB.NET\Decode Royal Mail KIX
+\VB.NET\Decode Swiss Post Parcel
+\VB.NET\Decode Truncated PDF417
+\VB.NET\Decode UPC-A
+\VB.NET\Decode UPC-E
+\VB.NET\Decode USPS Sack Label
+\VB.NET\Decode USPS Tray Label
+\VB.NET\Export Results to XML, CSV, TXT
+\VB.NET\General Example
+\VB.NET\GUI Example
+\VB.NET\Image Preprocessing Filters
+\VB.NET\Interrupt Processing
+\VB.NET\Parallel Decoding
+\VB.NET\Profiles
+\VB.NET\Read Checkboxes
+\VB.NET\Read From Live Video Cam
+\VB.NET\Read From Live Video Cam (simplified)
+\VB.NET\Read From Live Video Cam (WPF)
+\VB.NET\Read vCard from QR Code
+\VB.NET\Split Document By Found Barcode
+\VB.NET\WPF UI Example
+\VB6\Simple
+\VBScript\Batch Read From Files
+\VBScript\From PDF
+\VBScript\From Webcam or Scanner
+\VBScript\Image Preprocessing Filters
+\VBScript\Profiles
+\VBScript\Rename Files To Barcode Values
+\VBScript\Search Barcodes In Documents And Write Results To File
+\VBScript\Simple
+\_Web API\C#
+\_Web API\cURL
+\_Web API\Java
+\_Web API\JavaScript
+\_Web API\PHP
+\_Web API\PowerShell
+\_Web API\VB.NET
+\_Web API\C#\Read Barcode From Uploaded File
+\_Web API\C#\Read Barcode From URL
+\_Web API\C#\Read Barcode From URL Asynchronously
+\_Web API\cURL\Read Barcode From URL
+\_Web API\Java\Read Barcode From Uploaded File
+\_Web API\Java\Read Barcode From URL
+\_Web API\JavaScript\Read Barcode From Uploaded File (Node.js)
+\_Web API\JavaScript\Read Barcode From URL (Node.js)
+\_Web API\PHP\Read Barcode From Uploaded File
+\_Web API\PHP\Read Barcode From URL Asynchronously
+\_Web API\PowerShell\Read Barcode From Uploaded File
+\_Web API\PowerShell\Read Barcode From URL
+\_Web API\PowerShell\Read Barcode From URL Asynchronously
+\_Web API\VB.NET\Read Barcode From Uploaded File
+\_Web API\VB.NET\Read Barcode From URL
+\_Web API\VB.NET\Read Barcode From URL Asynchronously
