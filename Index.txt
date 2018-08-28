@@ -38,6 +38,10 @@
 \C#\Decode Code 16K
 \C#\Decode Code 39
 \C#\Decode Code 93
+\C#\Decode Damaged Code 128
+\C#\Decode Damaged Code 39
+\C#\Decode Damaged Datamatrix
+\C#\Decode Damaged QR Code
 \C#\Decode Datamatrix
 \C#\Decode Deutsche Post Identcode
 \C#\Decode Deutsche Post Leitcode
@@ -67,6 +71,7 @@
 \C#\Decode PDF417
 \C#\Decode PZN
 \C#\Decode QR Code
+\C#\Decode QR Code With JSON
 \C#\Decode Royal Mail
 \C#\Decode Royal Mail KIX
 \C#\Decode Swiss Post Parcel
@@ -110,6 +115,10 @@
 \VB.NET\Decode Code 16K
 \VB.NET\Decode Code 39
 \VB.NET\Decode Code 93
+\VB.NET\Decode Damaged Code 128
+\VB.NET\Decode Damaged Code 39
+\VB.NET\Decode Damaged Datamatrix
+\VB.NET\Decode Damaged QR Code
 \VB.NET\Decode Datamatrix
 \VB.NET\Decode Deutsche Post Identcode
 \VB.NET\Decode Deutsche Post Leitcode
@@ -139,6 +148,7 @@
 \VB.NET\Decode PDF417
 \VB.NET\Decode PZN
 \VB.NET\Decode QR Code
+\VB.NET\Decode QR Code With JSON
 \VB.NET\Decode Royal Mail
 \VB.NET\Decode Royal Mail KIX
 \VB.NET\Decode Swiss Post Parcel
