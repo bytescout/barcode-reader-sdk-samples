@@ -20,14 +20,17 @@
 \ASP.NET\Barcodes From Image (VB.NET)
 \ASP.NET\Barcodes From PDF (C#)
 \ASP.NET\Barcodes From PDF (VB.NET)
+\ASP.NET\Batch Read Barcodes To CSV
 \ASP.NET\General Example (C#)
 \ASP.NET\General Example (VB.NET)
 \ASP.NET\Read From Live Camera (C# - MVC)
 \ASP.NET\Read From Live Camera (C#)
 \ASP.NET\Split PDF by Barcode (C#)
+\ASP.NET\Batch Read Barcodes To CSV\BarcodeFiles
 \C#\Acquire From Scanner And Decode
 \C#\Barcodes From PDF
 \C#\Barcodes From TIFF
+\C#\Batch Read Barcodes To CSV
 \C#\Batch Read From Files
 \C#\Decode Australian Post Code
 \C#\Decode Aztec
@@ -93,6 +96,7 @@
 \C#\Read vCard from QR Code
 \C#\Split Document By Found Barcode
 \C#\WPF UI Example
+\C#\Batch Read Barcodes To CSV\BarcodeFiles
 \C++ (Managed)\General Example
 \C++ (Unmanaged)\General Example
 \C++ (Unmanaged)\Read From Memory
@@ -104,6 +108,7 @@
 \VB.NET\Acquire From Scanner And Decode
 \VB.NET\Barcodes From PDF
 \VB.NET\Barcodes From TIFF
+\VB.NET\Batch Read Barcodes To CSV
 \VB.NET\Batch Read From Files
 \VB.NET\Decode Australian Post Code
 \VB.NET\Decode Aztec
@@ -171,15 +176,20 @@
 \VB.NET\Read vCard from QR Code
 \VB.NET\Split Document By Found Barcode
 \VB.NET\WPF UI Example
+\VB.NET\Batch Read Barcodes To CSV\BarcodeFiles
 \VB6\Simple
 \VBScript\Batch Read From Files
+\VBScript\Code 39 To Excel
 \VBScript\From PDF
 \VBScript\From Webcam or Scanner
 \VBScript\Image Preprocessing Filters
 \VBScript\Profiles
+\VBScript\QR Code To Excel
 \VBScript\Rename Files To Barcode Values
 \VBScript\Search Barcodes In Documents And Write Results To File
 \VBScript\Simple
+\VBScript\Code 39 To Excel\InputFiles
+\VBScript\QR Code To Excel\InputFiles
 \_Web API\C#
 \_Web API\cURL
 \_Web API\Java
