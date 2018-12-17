@@ -99,6 +99,7 @@
 \C#\Batch Read Barcodes To CSV\BarcodeFiles
 \C++ (Managed)\General Example
 \C++ (Unmanaged)\General Example
+\C++ (Unmanaged)\Image Preprocessing Filters
 \C++ (Unmanaged)\Read From Memory
 \Delphi\Console
 \Delphi\Console Read From Subfolder
