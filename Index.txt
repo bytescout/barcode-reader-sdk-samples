@@ -25,18 +25,18 @@
 \ASP.NET C#\Split PDF by Barcode
 \ASP.NET C#\Batch Read Barcodes To CSV\BarcodeFiles
 \ASP.NET MVC C#\Batch Read Barcodes To CSV
-\ASP.NET MVC C#\Read barcode
-\ASP.NET MVC C#\read Barcodes From Image
-\ASP.NET MVC C#\read Barcodes From PDF
+\ASP.NET MVC C#\Read Barcode
+\ASP.NET MVC C#\Read Barcodes From Image
+\ASP.NET MVC C#\Read Barcodes From PDF
 \ASP.NET MVC C#\Read From Live Camera
 \ASP.NET MVC C#\Split PDF by Barcode
 \ASP.NET MVC C#\Batch Read Barcodes To CSV\BarcodeFiles
 \ASP.NET VB\Batch Read Barcodes To CSV
-\ASP.NET VB\Read barcode
-\ASP.NET VB\read Barcodes From Image
-\ASP.NET VB\read Barcodes From PDF
+\ASP.NET VB\Read Barcode
+\ASP.NET VB\Read Barcodes From Image
+\ASP.NET VB\Read Barcodes From PDF
 \ASP.NET VB\Batch Read Barcodes To CSV\BarcodeFiles
-\C#\Acquire barcode From Scanner And Decode
+\C#\Acquire Barcode From Scanner And Decode
 \C#\Batch Read Barcodes To CSV
 \C#\Batch Read From Files
 \C#\Decode Australian Post Code
@@ -98,26 +98,26 @@
 \C#\Parallel Barcode Decoding
 \C#\Read barcode From Live Video Cam
 \C#\Read barcodes From Live Video Cam (WPF)
-\C#\read Barcodes From PDF
-\C#\read Barcodes From TIFF
+\C#\Read Barcodes From PDF
+\C#\Read Barcodes From TIFF
 \C#\Read Checkboxes
 \C#\Read vCard from QR Code
 \C#\Set Barcode Decoding Profiles
 \C#\Split PDF Document By Found Barcode
 \C#\WPF UI Example for barcode reading
 \C#\Batch Read Barcodes To CSV\BarcodeFiles
-\C++ (Managed)\read barcode from image
-\C++ (Unmanaged)\General Example reading barcode
+\C++ (Managed)\Read Barcode From Image
+\C++ (Unmanaged)\General Example Reading Barcode
 \C++ (Unmanaged)\Read barcode From Memory
 \C++ (Unmanaged)\Set Image Preprocessing Filters
-\Delphi\barcode reading in console
-\Delphi\Read barcode From Subfolder
-\M-Files\Read barcodes
-\Microsoft Access\Read barcode from PDF file
-\PHP\Read barcode from image
-\SAP PowerBuilder\Read barcode from image
-\VB.NET\Acquire image From Scanner And Decode
-\VB.NET\barcode Image Preprocessing Filters
+\Delphi\Barcode Reading In Console
+\Delphi\Read Barcodes From Subfolder
+\M-Files\Read Barcodes
+\Microsoft Access\Read Barcode From PDF File
+\PHP\Read Barcode From Image
+\SAP PowerBuilder\Read Barcode From Image
+\VB.NET\Acquire Image From Scanner And Decode
+\VB.NET\Barcode Image Preprocessing Filters
 \VB.NET\Barcode Reading Profiles
 \VB.NET\Batch Read Barcodes To CSV
 \VB.NET\Batch Read From Files
@@ -175,15 +175,15 @@
 \VB.NET\Decode USPS Tray Label
 \VB.NET\Export Results to XML, CSV, TXT
 \VB.NET\General Barcode Reading Example
-\VB.NET\GUI Example for barcode reading
-\VB.NET\Interrupt barcode Processing
+\VB.NET\GUI Example For Barcode Reading
+\VB.NET\Interrupt Barcode Processing
 \VB.NET\Parallel barcode Decoding
-\VB.NET\Read barcode From Live Video Cam
-\VB.NET\Read barcode From Live Video Cam (simplified)
-\VB.NET\Read barcode From Live Video Cam (WPF)
-\VB.NET\read Barcodes From PDF
-\VB.NET\read Barcodes From TIFF
-\VB.NET\Read Checkboxes from image
+\VB.NET\Read Barcode From Live Video Cam
+\VB.NET\Read Barcode From Live Video Cam (simplified)
+\VB.NET\Read Barcode From Live Video Cam (WPF)
+\VB.NET\Read Barcodes From PDF
+\VB.NET\Read Barcodes From TIFF
+\VB.NET\Read Checkboxes From Image
 \VB.NET\Read vCard from QR Code
 \VB.NET\Split PDF Document By Found Barcode
 \VB.NET\WPF UI Barcode Reading Example
@@ -191,15 +191,15 @@
 \VBScript\Barcode Image Preprocessing Filters
 \VBScript\Barcode Reading Profiles
 \VBScript\Barcodes to Excel
-\VBScript\Batch Read barcodes From Files
-\VBScript\Read barcode From PDF
-\VBScript\Read barcode From Webcam or Scanner
-\VBScript\read Code 39 To Excel
+\VBScript\Batch Read Barcodes From Files
+\VBScript\Read Barcode From PDF
+\VBScript\Read Barcode From Webcam or Scanner
+\VBScript\Read Code 39 To Excel
 \VBScript\Read QR Code To Excel
 \VBScript\Rename Files To Barcode Values
 \VBScript\Search Barcodes In Documents And Write Results To File
 \VBScript\Simple barcode reading
 \VBScript\Barcodes to Excel\InputFiles
-\VBScript\read Code 39 To Excel\InputFiles
+\VBScript\Read Code 39 To Excel\InputFiles
 \VBScript\Read QR Code To Excel\InputFiles
-\Visual Basic 6\Simple barcode reading
+\Visual Basic 6\Simple Barcode Reading
