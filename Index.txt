@@ -174,6 +174,7 @@
 \VB.NET\Decode USPS Sack Label
 \VB.NET\Decode USPS Tray Label
 \VB.NET\Export Results to XML, CSV, TXT
+\VB.NET\General Barcode Reading Example
 \VB.NET\GUI Example for barcode reading
 \VB.NET\Interrupt barcode Processing
 \VB.NET\Parallel barcode Decoding
@@ -185,6 +186,7 @@
 \VB.NET\Read Checkboxes from image
 \VB.NET\Read vCard from QR Code
 \VB.NET\Split PDF Document By Found Barcode
+\VB.NET\WPF UI Barcode Reading Example
 \VB.NET\Batch Read Barcodes To CSV\BarcodeFiles
 \VBScript\Barcode Image Preprocessing Filters
 \VBScript\Barcode Reading Profiles
