@@ -177,7 +177,7 @@
 \VB.NET\General Barcode Reading Example
 \VB.NET\GUI Example For Barcode Reading
 \VB.NET\Interrupt Barcode Processing
-\VB.NET\Parallel barcode Decoding
+\VB.NET\Parallel Barcode Decoding
 \VB.NET\Read Barcode From Live Video Cam
 \VB.NET\Read Barcode From Live Video Cam (simplified)
 \VB.NET\Read Barcode From Live Video Cam (WPF)
