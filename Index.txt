@@ -15,12 +15,12 @@
 \VB.NET
 \VBScript
 \Visual Basic 6
-\ASP Classic\read barcode from image
-\ASP Classic\read Barcode From PDF
+\ASP Classic\Read Barcode From Image
+\ASP Classic\Read Barcode From PDF
 \ASP.NET C#\Batch Read Barcodes To CSV
-\ASP.NET C#\Read barcode
-\ASP.NET C#\read Barcodes From Image
-\ASP.NET C#\read Barcodes From PDF
+\ASP.NET C#\Read Barcode
+\ASP.NET C#\Read Barcodes From Image
+\ASP.NET C#\Read Barcodes From PDF
 \ASP.NET C#\Read From Live Camera
 \ASP.NET C#\Split PDF by Barcode
 \ASP.NET C#\Batch Read Barcodes To CSV\BarcodeFiles
