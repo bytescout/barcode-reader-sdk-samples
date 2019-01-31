@@ -188,6 +188,7 @@
 \VB.NET\Batch Read Barcodes To CSV\BarcodeFiles
 \VBScript\Barcode Image Preprocessing Filters
 \VBScript\Barcode Reading Profiles
+\VBScript\Barcodes to Excel
 \VBScript\Batch Read barcodes From Files
 \VBScript\Read barcode From PDF
 \VBScript\Read barcode From Webcam or Scanner
@@ -196,6 +197,7 @@
 \VBScript\Rename Files To Barcode Values
 \VBScript\Search Barcodes In Documents And Write Results To File
 \VBScript\Simple barcode reading
+\VBScript\Barcodes to Excel\InputFiles
 \VBScript\read Code 39 To Excel\InputFiles
 \VBScript\Read QR Code To Excel\InputFiles
 \Visual Basic 6\Simple barcode reading
