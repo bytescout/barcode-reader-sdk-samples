@@ -18,6 +18,7 @@
 \ASP Classic\Read Barcode From Image
 \ASP Classic\Read Barcode From PDF
 \ASP.NET C#\Batch Read Barcodes To CSV
+\ASP.NET C#\Decode page by page from PDF OR TIFF
 \ASP.NET C#\Read Barcode
 \ASP.NET C#\Read Barcodes From Image
 \ASP.NET C#\Read Barcodes From PDF
@@ -25,6 +26,7 @@
 \ASP.NET C#\Split PDF by Barcode
 \ASP.NET C#\Batch Read Barcodes To CSV\BarcodeFiles
 \ASP.NET MVC C#\Batch Read Barcodes To CSV
+\ASP.NET MVC C#\Decode page by page from PDF OR TIFF
 \ASP.NET MVC C#\Read Barcode
 \ASP.NET MVC C#\Read Barcodes From Image
 \ASP.NET MVC C#\Read Barcodes From PDF
@@ -32,6 +34,7 @@
 \ASP.NET MVC C#\Split PDF by Barcode
 \ASP.NET MVC C#\Batch Read Barcodes To CSV\BarcodeFiles
 \ASP.NET VB\Batch Read Barcodes To CSV
+\ASP.NET VB\Decode page by page from PDF OR TIFF
 \ASP.NET VB\Read Barcode
 \ASP.NET VB\Read Barcodes From Image
 \ASP.NET VB\Read Barcodes From PDF
@@ -77,6 +80,8 @@
 \C#\Decode MaxiCode
 \C#\Decode MICR from Bank Check
 \C#\Decode Numly
+\C#\Decode page by page from PDF
+\C#\Decode page by page from TIFF
 \C#\Decode Patch Code
 \C#\Decode PDF417
 \C#\Decode PZN
@@ -102,6 +107,7 @@
 \C#\Read Barcodes From TIFF
 \C#\Read Checkboxes
 \C#\Read vCard from QR Code
+\C#\Reduce CPU Usage
 \C#\Set Barcode Decoding Profiles
 \C#\Split PDF Document By Found Barcode
 \C#\WPF UI Example for barcode reading
@@ -160,6 +166,8 @@
 \VB.NET\Decode MaxiCode
 \VB.NET\Decode MICR from Bank Check
 \VB.NET\Decode Numly
+\VB.NET\Decode page by page from PDF
+\VB.NET\Decode page by page from TIFF
 \VB.NET\Decode Patch Code
 \VB.NET\Decode PDF417
 \VB.NET\Decode PZN
@@ -185,6 +193,7 @@
 \VB.NET\Read Barcodes From TIFF
 \VB.NET\Read Checkboxes From Image
 \VB.NET\Read vCard from QR Code
+\VB.NET\Reduce CPU Usage
 \VB.NET\Split PDF Document By Found Barcode
 \VB.NET\WPF UI Barcode Reading Example
 \VB.NET\Batch Read Barcodes To CSV\BarcodeFiles
