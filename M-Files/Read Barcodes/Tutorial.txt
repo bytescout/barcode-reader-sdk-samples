@@ -1,21 +1,13 @@
-<title>Using ByteScout Barcode tools to automatically recognize documents in M-Files</title>
-<h1>Using ByteScout Barcode tools to automatically recognize documents in M-Files</h1>
+Using ByteScout Barcode tools to automatically recognize documents in M-Files
 
-<h2>Adding a barcode to a document</h2>
+Adding a barcode to a document
 
-<ol>
 	
-	<li> In M-Files Admin, create a new workflow that will add a barcode to the document. Provide a name and other information
-	<br>
-	<img src="Workflow1.png">
-	</li>
-	<li> In the new workflow, create a new state.  Provide a name, such as "Add Barcode" </li>
-	<li> Under "Actions" tab, select "Run script" and provide VBScript:
-	
-	<br>
-	<img src="StateAction.png">
-	
-	<pre><code>
+•  In M-Files Admin, create a new workflow that will add a barcode to the document. Provide a name and other information
+•  In the new workflow, create a new state.  Provide a name, such as "Add Barcode" 	
+•  Under "Actions" tab, select "Run script" and provide VBScript:
+
+
 		Option Explicit
 
 		'Script to download file, add barcode, and upload
@@ -56,16 +48,15 @@
 		Dim fs: Set fs = CreateObject("Scripting.FileSystemObject") 'Calls the File System Object
 		fs.DeleteFile(sFilePath)
 		fs.DeleteFile(sNewPath)
-	</code></pre>
+
 	
-	</li>
+		
+
+• Create a new state.  Provide a name, such as "Remove Workflow" 	
+•  Under "Actions" tab, select "Run script" and provide VBScript:
+
 	
-	<li>Create a new state.  Provide a name, such as "Remove Workflow" </li>
-	
-	<li> Under "Actions" tab, select "Run script" and provide VBScript:
-	
-	
-	<pre><code>
+
 		'M-Files Workflow Action Script to remove state and workflow property from object.
 		'Place action code in the last 'end' state of the workflow.
 		'updated 2015-03-12, mika, pschokker
@@ -86,41 +77,32 @@
 		oPropVals.Add -1, oPropVal
 
 		Call Vault.ObjectPropertyOperations.SetProperties( ObjVer, oPropVals )
-	</code></pre>
+
 	
-	<li> Link "Add Barcode" and "Remove Workflow" states.  
+
+•  Link "Add Barcode" and "Remove Workflow" states.  
 	Right click state transition, "Transition" tab, select "Trigger the state transition once the object fulfills the specified criteria".  
-	Under "Specify", "Files" tab, click "Contains Files", Yes </li>
-	
-	<br>
-	<img src="StateTransition.png">
-	
-	<li> Your workflow should now be setup as shown in step 1.  
-	<li> <b> To Use, </b> select a document in M-Files.   Assign the new workflow and state.  A barcode will be added to the document.
-	
-	<br>
-	
-	<img src="AddBarcode.png">
-	
-</ol>
+	Under "Specify", "Files" tab, click "Contains Files", Yes 	
 
-<h2>Detecting a barcode to a document</h2>
+	
 
-<ol>
 	
-	<li> In M-Files Admin, create a new workflow that will detect a barcode to the document. Provide a name and other information
-	<br>
-	<img src="Workflow1.png">
-	</li>
-	<li> In the new workflow, create a new state.  Provide a name, such as "Detect Barcode" </li>
-	<li> Under "Actions" tab, select "Run script" and provide VBScript:
+•  Your workflow should now be setup as shown in step 1.  
+•   To Use,  select a document in M-Files.   Assign the new workflow and state.  A barcode will be added to the document.
+
 	
-	<br>
-	<img src="StateAction.png">
+Detecting a barcode to a document
+
 	
-	<pre><code>
+•  In M-Files Admin, create a new workflow that will detect a barcode to the document. Provide a name and other information
+•  In the new workflow, create a new state.  Provide a name, such as "Detect Barcode" 	
+•  Under "Actions" tab, select "Run script" and provide VBScript:
+
+	
+
+	
+
 		'Script to read barcode from document, and update object if it exists
-
 
 		'Download file
 		'================
@@ -170,16 +152,15 @@
 
 			End If
 		Next
-	</code></pre>
+
 	
-	</li>
+		
+
+• Create a new state.  Provide a name, such as "Remove Workflow" 	
+•  Under "Actions" tab, select "Run script" and provide VBScript:
+
 	
-	<li>Create a new state.  Provide a name, such as "Remove Workflow" </li>
-	
-	<li> Under "Actions" tab, select "Run script" and provide VBScript:
-	
-	
-	<pre><code>
+
 		'M-Files Workflow Action Script to remove state and workflow property from object.
 		'Place action code in the last 'end' state of the workflow.
 		'updated 2015-03-12, mika, pschokker
@@ -200,20 +181,12 @@
 		oPropVals.Add -1, oPropVal
 
 		Call Vault.ObjectPropertyOperations.SetProperties( ObjVer, oPropVals )
-	</code></pre>
+
 	
-	<li> Link "Detect Barcode" and "Remove Workflow" states.  
+
+•  Link "Detect Barcode" and "Remove Workflow" states.  
 	Right click state transition, "Transition" tab, select "Trigger the state transition once the object fulfills the specified criteria".  
-	Under "Specify", "Files" tab, click "Contains Files", Yes </li>
-	
-	<br>
-	<img src="StateTransition.png">
-	
-	<li> Your workflow should now be setup as shown in step 1.  
-	<li> <b> To Use, </b> assign the new workflow to an external source.  The new documents will be assigned the new workflow, which will replace the existing document.  
-	
-	<br>
-	
-	<img src="ExternalConnector.png">
-	
-</ol>
+	Under "Specify", "Files" tab, click "Contains Files", Yes 	
+•  Your workflow should now be setup as shown in step 1.  
+
+•   To Use,  assign the new workflow to an external source.  The new documents will be assigned the new workflow, which will replace the existing document.
