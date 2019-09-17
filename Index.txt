@@ -28,7 +28,7 @@
 \ASP.NET MVC C#\Batch Read Barcodes To CSV
 \ASP.NET MVC C#\Decode page by page from PDF OR TIFF
 \ASP.NET MVC C#\Read Barcode
-\ASP.NET MVC C#\Read Barcodes From Image
+\ASP.NET MVC C#\Read Barcode From Uploaded File
 \ASP.NET MVC C#\Read Barcodes From PDF
 \ASP.NET MVC C#\Read From Live Camera
 \ASP.NET MVC C#\Split PDF by Barcode
