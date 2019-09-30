@@ -10,6 +10,7 @@
 \Delphi
 \M-Files
 \Microsoft Access
+\Microsoft Excel
 \PHP
 \SAP PowerBuilder
 \VB.NET
@@ -122,6 +123,8 @@
 \Delphi\Read Barcodes From Subfolder
 \M-Files\Read Barcodes
 \Microsoft Access\Read Barcode From PDF File
+\Microsoft Excel\Read barcodes from folder
+\Microsoft Excel\Read barcodes from folder\InputFiles
 \PHP\Read Barcode From Image
 \SAP PowerBuilder\Read Barcode From Image
 \VB.NET\Acquire Image From Scanner And Decode
