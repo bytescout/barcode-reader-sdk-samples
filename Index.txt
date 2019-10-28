@@ -214,6 +214,7 @@
 \VBScript\Barcodes to Excel
 \VBScript\Batch Read Barcodes From Files
 \VBScript\Read Barcode From PDF
+\VBScript\Read barcode From PDF With OrientationType
 \VBScript\Read Barcode From Webcam or Scanner
 \VBScript\Read Code 39 To Excel
 \VBScript\Read QR Code To Excel
