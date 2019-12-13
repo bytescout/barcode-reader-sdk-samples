@@ -98,6 +98,7 @@
 \C#\Decode USPS Tray Label
 \C#\Decoding barcodes from PDF by pages
 \C#\Export Results to XML, CSV, TXT
+\C#\Filters to downscale Image
 \C#\General Example reading barcodes
 \C#\GUI Example for Barcode Reading
 \C#\Image Preprocessing Filters
@@ -190,6 +191,7 @@
 \VB.NET\Decode USPS Tray Label
 \VB.NET\Decoding barcodes from PDF by pages
 \VB.NET\Export Results to XML, CSV, TXT
+\VB.NET\Filters to downscale Image
 \VB.NET\General Barcode Reading Example
 \VB.NET\GUI Example For Barcode Reading
 \VB.NET\Inspect Decoded Barcodes
