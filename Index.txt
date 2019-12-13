@@ -116,6 +116,7 @@
 \C#\Read vCard from QR Code
 \C#\Reduce CPU Usage
 \C#\Set Barcode Decoding Profiles
+\C#\Set Orientation and Read Rotated Barcodes
 \C#\Split PDF Document By Found Barcode
 \C#\WPF UI Example for barcode reading
 \C#\Batch Read Barcodes To CSV\BarcodeFiles
