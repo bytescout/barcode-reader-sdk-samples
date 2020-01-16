@@ -97,6 +97,7 @@
 \C#\Decode USPS Sack Label
 \C#\Decode USPS Tray Label
 \C#\Decoding barcodes from PDF by pages
+\C#\Download and Process file
 \C#\Export Results to XML, CSV, TXT
 \C#\Filters to downscale Image
 \C#\General Example reading barcodes
@@ -191,6 +192,7 @@
 \VB.NET\Decode USPS Sack Label
 \VB.NET\Decode USPS Tray Label
 \VB.NET\Decoding barcodes from PDF by pages
+\VB.NET\Download and Process file
 \VB.NET\Export Results to XML, CSV, TXT
 \VB.NET\Filters to downscale Image
 \VB.NET\General Barcode Reading Example
