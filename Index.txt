@@ -44,6 +44,7 @@
 \C#\Acquire Barcode From Scanner And Decode
 \C#\Batch Read Barcodes To CSV
 \C#\Batch Read From Files
+\C#\Decode AAMVA data from PDF417 barcode
 \C#\Decode Australian Post Code
 \C#\Decode Aztec
 \C#\Decode Bookland
@@ -60,6 +61,7 @@
 \C#\Decode Datamatrix
 \C#\Decode Deutsche Post Identcode
 \C#\Decode Deutsche Post Leitcode
+\C#\Decode Driver License Information (PDF417)
 \C#\Decode EAN-128
 \C#\Decode EAN-13
 \C#\Decode EAN-14
@@ -73,6 +75,7 @@
 \C#\Decode GS1 DataBar Stacked
 \C#\Decode GS1 DataMatrix
 \C#\Decode GS1-128
+\C#\Decode Identification Card Information (PDF417)
 \C#\Decode Intelligent Mail
 \C#\Decode Interleaved 2 of 5
 \C#\Decode ISBN
@@ -140,6 +143,7 @@
 \VB.NET\Barcode Reading Profiles
 \VB.NET\Batch Read Barcodes To CSV
 \VB.NET\Batch Read From Files
+\VB.NET\Decode AAMVA data from PDF417 barcode
 \VB.NET\Decode Australian Post Code
 \VB.NET\Decode Aztec
 \VB.NET\Decode Bookland
@@ -157,6 +161,7 @@
 \VB.NET\Decode Datamatrix
 \VB.NET\Decode Deutsche Post Identcode
 \VB.NET\Decode Deutsche Post Leitcode
+\VB.NET\Decode Driver License Information (PDF417)
 \VB.NET\Decode EAN-128
 \VB.NET\Decode EAN-13
 \VB.NET\Decode EAN-14
@@ -170,6 +175,7 @@
 \VB.NET\Decode GS1 DataBar Stacked
 \VB.NET\Decode GS1 DataMatrix
 \VB.NET\Decode GS1-128
+\VB.NET\Decode Identification Card Information (PDF417)
 \VB.NET\Decode Intelligent Mail
 \VB.NET\Decode Interleaved 2 of 5
 \VB.NET\Decode ISBN
