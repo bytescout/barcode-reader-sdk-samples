@@ -124,6 +124,7 @@
 \C#\Set Barcode Decoding Profiles
 \C#\Set Orientation and Read Rotated Barcodes
 \C#\Split PDF Document By Found Barcode
+\C#\Two-pass decoding
 \C#\WPF UI Example for barcode reading
 \C#\Batch Read Barcodes To CSV\BarcodeFiles
 \C++ (Managed)\Read Barcode From Image
@@ -222,6 +223,7 @@
 \VB.NET\Read vCard from QR Code
 \VB.NET\Reduce CPU Usage
 \VB.NET\Split PDF Document By Found Barcode
+\VB.NET\Two-pass decoding
 \VB.NET\WPF UI Barcode Reading Example
 \VB.NET\Batch Read Barcodes To CSV\BarcodeFiles
 \VBScript\Barcode Image Preprocessing Filters
