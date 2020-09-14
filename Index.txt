@@ -132,7 +132,13 @@
 \C++ (Unmanaged)\Read barcode From Memory
 \C++ (Unmanaged)\Set Image Preprocessing Filters
 \Delphi\Barcode Reading In Console
+\Delphi\Decode Australian Post Code
+\Delphi\Filters to downscale Image
+\Delphi\Image Preprocessing Filters
 \Delphi\Read Barcodes From Subfolder
+\Delphi\Set Barcode Decoding Profiles
+\Delphi\Set Orientation and Read Rotated Barcodes
+\Delphi\Split PDF Document By Found Barcode
 \M-Files\Read Barcodes
 \Microsoft Access\Read Barcode From PDF File
 \Microsoft Excel\Read barcodes from folder
@@ -230,15 +236,70 @@
 \VBScript\Barcode Reading Profiles
 \VBScript\Barcodes to Excel
 \VBScript\Batch Read Barcodes From Files
+\VBScript\Decode Australian Post Code
+\VBScript\Decode Aztec
+\VBScript\Decode Bookland
+\VBScript\Decode Codabar
+\VBScript\Decode Codablock F
+\VBScript\Decode Code 128
+\VBScript\Decode Code 16K
+\VBScript\Decode Code 39
+\VBScript\Decode Code 93
+\VBScript\Decode Damaged Code 128
+\VBScript\Decode Damaged Code 39
+\VBScript\Decode Damaged Datamatrix
+\VBScript\Decode Damaged QR Code
+\VBScript\Decode Datamatrix
+\VBScript\Decode Deutsche Post Identcode
+\VBScript\Decode Deutsche Post Leitcode
+\VBScript\Decode EAN-128
+\VBScript\Decode EAN-13
+\VBScript\Decode EAN-14
+\VBScript\Decode EAN-2
+\VBScript\Decode EAN-5
+\VBScript\Decode EAN-8
+\VBScript\Decode GS1 DataBar Expanded
+\VBScript\Decode GS1 DataBar Expanded Stacked
+\VBScript\Decode GS1 DataBar Limited
+\VBScript\Decode GS1 DataBar Omnidirectional
+\VBScript\Decode GS1 DataBar Stacked
+\VBScript\Decode GS1 DataMatrix
+\VBScript\Decode GS1-128
+\VBScript\Decode Intelligent Mail
+\VBScript\Decode Interleaved 2 of 5
+\VBScript\Decode ISBN
+\VBScript\Decode ITF-14
+\VBScript\Decode JAN-13
+\VBScript\Decode Macro PDF 417
+\VBScript\Decode Macro PDF417
+\VBScript\Decode MaxiCode
+\VBScript\Decode MICR from Bank Check
+\VBScript\Decode Numly
+\VBScript\Decode page by page from TIFF
+\VBScript\Decode Patch Code
+\VBScript\Decode PDF417
+\VBScript\Decode PZN
+\VBScript\Decode QR Code
+\VBScript\Decode QR Code With JSON
+\VBScript\Decode Royal Mail
+\VBScript\Decode Royal Mail KIX
+\VBScript\Decode Swiss Post Parcel
+\VBScript\Decode Truncated PDF417
+\VBScript\Decode UPC-A
+\VBScript\Decode UPC-E
+\VBScript\Decode USPS Sack Label
+\VBScript\Decode USPS Tray Label
 \VBScript\Display License Info
 \VBScript\Read Barcode From PDF
 \VBScript\Read barcode From PDF With OrientationType
 \VBScript\Read Barcode From Webcam or Scanner
+\VBScript\Read Checkboxes
 \VBScript\Read Code 39 To Excel
 \VBScript\Read QR Code To Excel
 \VBScript\Rename Files To Barcode Values
 \VBScript\Search Barcodes In Documents And Write Results To File
 \VBScript\Simple barcode reading
+\VBScript\Split PDF Document By Found Barcode
 \VBScript\Barcodes to Excel\InputFiles
 \VBScript\Read Code 39 To Excel\InputFiles
 \VBScript\Read QR Code To Excel\InputFiles
